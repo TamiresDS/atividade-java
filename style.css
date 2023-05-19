@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mogra&display=swap');
+
+
+body{
+    display: flex;
+    justify-content: center;
+  display: flex;
+}
+
+.tudo{
+ position: relative;
+ top: 250px;
+}
+    
+
+.h1{
+    color: #000000;
+    margin: 28px 40px;
+    font-family: 'Righteous', cursive;
+  
+}
+
+.consolem{
+    font-family: 'Mogra', cursive;
+    font-size: 25px;
+    
+    
+   
+}
+.button{
+    width: 170px;
+    height: 38px;
+    background-color:  #b9a6e7;
+    border-radius: 40px ;
+    font-family: 'Righteous', cursive;
+    font-size: 25px;
+    color: #000000;
+    text-transform: uppercase;
+    cursor: pointer; 
+    margin-top: 5px; 
+    margin-bottom: 0px;
+}
